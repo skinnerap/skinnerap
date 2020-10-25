@@ -2,7 +2,7 @@
 
 - 📫 How to reach me: alex.paul.skinner@gmail.com
 
-- 🔭 I’m currently working on an online ordering system for a regional chain restaurant. This project utilizes React on the front-end and features a secure authentication system. I am using Firebase for authetication, as well as a cloud storage bucket to serve as the core database. I am using Chipotle's "Meal System" as an inspiration for this project, allowing customers to easily reorder and customize their favorite meals. This leads to a superior user experience, as this and security are my primary priorities on this project. I am also focusing on delivering a beautiful and responsive user interface.
+- 🔭 I’m currently working on an online ordering system for a regional chain restaurant. This project utilizes React on the front-end and features a secure authentication system. I am using Firebase for authetication, as well as a cloud storage bucket to serve as the core database. I am using Chipotle's "Meal System" as an inspiration for this project, allowing customers to easily reorder and customize their favorite meals. This leads to a superior user experience, as this and security are my primary priorities on this project. I am also focusing on delivering a beautiful and responsive user interface. Check it out here: [Lotus Repo]
 
 - 🌱 I’m currently learning regular expressions (RegEx) in an effort to add new validation and security skills to my toolbelt of knowledge. I am also focusing the majority of my daily study time to security best practices. I am always furthering my expertise as much as possible in the following languages/frameworks: React, Angular, JavaScript, HTML, CSS, SASS, Node.js, Express, MongoDB, Firebase, and SQL databases.
 
@@ -22,3 +22,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Lotus Repo]: https://github.com/skinnerap/lotus
